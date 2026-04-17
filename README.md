@@ -7,7 +7,7 @@ This repository consolidates two core Google Kubernetes Engine (GKE) training re
 Here is a visual overview of the structure and process used to create this consolidated lab repository:
 
 <p align="center">
-  <img src="https://i.imgur.com/gY8vJ2b.png" alt="Visual Guide for GKE Lab Management" width="650">
+  <img src="gke_visual_guide.png" alt="Visual Guide for GKE Lab Management" width="650">
 </p>
 
 ## Repository Contents
