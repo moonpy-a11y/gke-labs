@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+.vscode/
+*key.json
+*.pem
+kubeconfig
+.kube/
+.gcloud/
+credentials.json
+.terraform/
+*.tfstate*
+__pycache__/
+venv/
+node_modules/
